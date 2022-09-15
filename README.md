@@ -5,6 +5,10 @@ A starter template for my Next.js projects because I am lazy 🙂
 ## How to use
 ```
 pnpm create next-app YOUR_PROJECT_NAME -e https://github.com/clxmente/next
+# or
+yarn create next-app YOUR_PROJECT_NAME -e https://github.com/clxmente/next
+# or
+npx create-next-app YOUR_PROJECT_NAME -e https://github.com/clxmente/next
 ```
 
 ## Features
